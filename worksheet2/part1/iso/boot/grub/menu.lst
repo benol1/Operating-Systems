@@ -1,0 +1,5 @@
+default 0
+timeout 0
+
+title Worksheet 2 Part 1 Kernel
+kernel /boot/kernel.elf
